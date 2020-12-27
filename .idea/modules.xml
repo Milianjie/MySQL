@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySqlStudy.iml" filepath="$PROJECT_DIR$/MySqlStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据库前期准备/数据库前期准备.iml" filepath="$PROJECT_DIR$/数据库前期准备/数据库前期准备.iml" />
+    </modules>
+  </component>
+</project>
